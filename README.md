@@ -1,3 +1,7 @@
+## Demo video
+
+https://github.com/mohitroy234/Fit_app/assets/109425805/e8b85387-cef0-40ad-8218-430440a03a05
+
 # fit_app
 
 A new Flutter project.
